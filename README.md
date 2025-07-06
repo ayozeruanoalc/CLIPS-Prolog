@@ -37,7 +37,8 @@ Ejemplo:
 
 <img src="https://github.com/user-attachments/assets/e9f7858b-2f55-4f96-a09e-41663dca43e0" alt="Image" width="700"/>
 
+Red bayesiana implementada:
 
-
+<img src="https://github.com/user-attachments/assets/f98b1cf8-e9fe-45a3-b823-a46b19d22c52" alt="Image" width="700"/>
 
 
