@@ -25,11 +25,11 @@ Implementación de una red bayesiana en CLIPS para el diagnóstico de fallos en 
 `expertSystemForCPDHandlingUncertainty.clp`: Código fuente en CLIPS.
 
 #### ▶️ Cómo ejecutar
-1. load del programa en CLIPS
-2. reset (para cargar las probabilidades ubicadas en hechos iniciales)
-3. Se ingresa la consulta con este formato: (assert (consulta (nombre x) (booleano y))). Siendo x un nombre permitido, e y si se quiere la probabilidad de x (dadas las evidencias) con x estándar (TRUE) o con x negada (FALSE)
-4. Se ingresan las evidencias con el siguiente formato: (assert (evidencia (nombre x) (booleano y))). Siendo x un nombre permitido, e y si se toma la evidencia dada como Verdadera (TRUE) o como Falsa (FALSE)
-5. run (ejecución del programa)
+1. `load` del programa en CLIPS
+2. `reset` (para cargar las probabilidades ubicadas en hechos iniciales)
+3. Se ingresa la consulta con este formato: `(assert (consulta (nombre x) (booleano y)))`. Siendo x un nombre permitido, e y si se quiere la probabilidad de x (dadas las evidencias) con x estándar (TRUE) o con x negada (FALSE)
+4. Se ingresan las evidencias con el siguiente formato: `(assert (evidencia (nombre x) (booleano y)))`. Siendo x un nombre permitido, e y si se toma la evidencia dada como Verdadera (TRUE) o como Falsa (FALSE)
+5. `run` (ejecución del programa)
 
 ✅ **Nombres permitidos:** DiscoError, CPUAlta, SOInestable, TempAlta, RAMError, CaidaServidor y Reinicio
 
