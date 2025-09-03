@@ -1,6 +1,8 @@
 ## Monkey and Banana (Prolog) & Red Bayesiana de Fallos de Servidor (CLIPS)
 Este repositorio contiene dos proyectos independientes realizados como parte de prácticas de Inteligencia Artificial.
 
+---
+
 ### Monkey and Banana (Prolog)
 #### 📌 Descripción
 Implementación en Prolog del problema clásico del mono y el plátano. El objetivo es encontrar una secuencia de acciones que permita al mono alcanzar y agarrar el plátano, desplazándose por un tablero de tamaño NxN, interactuando con una caja y utilizando acciones como caminar, empujar, subir y bajar de la caja, y agarrar el plátano.
@@ -27,6 +29,8 @@ Formato de búsqueda: `eating(state(coordsMonkey(x,y), onfloor, coordsBox(x,y), 
 
 - **Ayoze Ruano** — 🔗 [GitHub](https://github.com/ayozeruanoalc)
 - **Enrique Reina** — 🔗 [GitHub](https://github.com/ellupe)
+
+---
 
 ### Red Bayesiana de Fallos de Servidor (CLIPS)
 #### 📌 Descripción
