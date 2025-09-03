@@ -23,6 +23,11 @@ Formato de búsqueda: `eating(state(coordsMonkey(x,y), onfloor, coordsBox(x,y), 
 
 <img src="https://github.com/user-attachments/assets/0bf2dd11-f53d-42df-ac98-1dd03b8b454d" alt="Image" width="700"/>
 
+#### 👥 Autores
+
+- **Ayoze Ruano** — 🔗 [GitHub](https://github.com/ayozeruanoalc)
+- **Enrique Reina** — 🔗 [GitHub](https://github.com/ellupe)
+
 ### Red Bayesiana de Fallos de Servidor (CLIPS)
 #### 📌 Descripción
 Implementación de una red bayesiana en CLIPS para el diagnóstico de fallos en servidores. Permite calcular la probabilidad de eventos como la caída del servidor, dados ciertos síntomas o evidencias observadas (por ejemplo, error de disco, RAM, CPU alta, etc.).
@@ -54,5 +59,4 @@ La probabilidad de que se caiga el servidor dado que hay una temperatura elevada
 #### Red bayesiana implementada:
 
 <img src="https://github.com/user-attachments/assets/f98b1cf8-e9fe-45a3-b823-a46b19d22c52" alt="Image" width="700"/>
-
 
